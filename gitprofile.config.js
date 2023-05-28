@@ -44,18 +44,18 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: '한국장학재단',
+      position: '국가우수장학금(이공계)',
+      from: '2018',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: '',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: '성균관대학교',
+      position: 'Dean\'s list award',
+      from: '2022-2학기',
+      to: '2022-2학기',
+      companyLink: '',
     },
   ],
   /* certifications: [
@@ -71,13 +71,13 @@ const config = {
       institution: '성균관대학교',
       degree: '기계공학과 학사',
       from: '2018',
-      to: '2024',
+      to: 'Present',
     },
     {
       institution: '성균관대학교',
       degree: '소프트웨어학과 학사',
       from: '2021',
-      to: '2024',
+      to: 'Present',
     },
   ],
 
@@ -101,7 +101,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
